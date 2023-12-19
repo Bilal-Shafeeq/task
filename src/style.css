@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: pink;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+}
+
+.container h1{
+   font-size: 60px;
+}
+
+button{
+    width: 50px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.dynText{
+    font-size: 25px;
+    margin: 0px 20px;
+    font-weight: 600;
+}
+
+.innerContainer{
+    padding: 30px 0px;
+}
